@@ -1,0 +1,107 @@
+2014/12/01 12:07:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/images/avatar.png".' in /home/hrdotnet/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/hrdotnet/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('user/images/ava...')
+#1 /home/hrdotnet/public_html/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/hrdotnet/public_html/pomanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pomanager/user/images/avatar.png
+HTTP_REFERER=http://hrdotnetsolutions.net/pomanager/user/profile
+---
+2014/12/01 12:07:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/images/edit.png".' in /home/hrdotnet/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/hrdotnet/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('user/images/edi...')
+#1 /home/hrdotnet/public_html/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/hrdotnet/public_html/pomanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pomanager/user/images/edit.png
+HTTP_REFERER=http://hrdotnetsolutions.net/pomanager/user/profile
+---
+2014/12/01 12:07:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "docicons/excel.png".' in /home/hrdotnet/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/hrdotnet/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('docicons/excel....')
+#1 /home/hrdotnet/public_html/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/hrdotnet/public_html/pomanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pomanager/docicons/excel.png
+HTTP_REFERER=http://hrdotnetsolutions.net/pomanager/orders/orders/view/id/1
+---
+2014/12/01 12:10:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "docicons/excel.png".' in /home/hrdotnet/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/hrdotnet/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('docicons/excel....')
+#1 /home/hrdotnet/public_html/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/hrdotnet/public_html/pomanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pomanager/docicons/excel.png
+HTTP_REFERER=http://hrdotnetsolutions.net/pomanager/orders/orders/view/id/1
+---
+2014/12/01 12:11:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "docicons/excel.png".' in /home/hrdotnet/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/hrdotnet/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('docicons/excel....')
+#1 /home/hrdotnet/public_html/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/hrdotnet/public_html/pomanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pomanager/docicons/excel.png
+HTTP_REFERER=http://hrdotnetsolutions.net/pomanager/orders/orders/view/id/1
+---
+2014/12/01 12:29:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "docicons/excel.png".' in /home/hrdotnet/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/hrdotnet/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('docicons/excel....')
+#1 /home/hrdotnet/public_html/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/hrdotnet/public_html/pomanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pomanager/docicons/excel.png
+HTTP_REFERER=http://hrdotnetsolutions.net/pomanager/orders/orders/view/id/1
+---
+2014/12/01 12:29:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "docicons/excel.png".' in /home/hrdotnet/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/hrdotnet/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('docicons/excel....')
+#1 /home/hrdotnet/public_html/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/hrdotnet/public_html/pomanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pomanager/docicons/excel.png
+HTTP_REFERER=http://hrdotnetsolutions.net/pomanager/orders/orders/view/id/1
+---
+2014/12/01 14:37:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/images/avatar.png".' in /home/hrdotnet/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/hrdotnet/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('user/images/ava...')
+#1 /home/hrdotnet/public_html/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/hrdotnet/public_html/pomanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pomanager/user/images/avatar.png
+HTTP_REFERER=http://hrdotnetsolutions.net/pomanager/user/profile
+---
+2014/12/01 14:37:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/images/edit.png".' in /home/hrdotnet/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/hrdotnet/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('user/images/edi...')
+#1 /home/hrdotnet/public_html/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/hrdotnet/public_html/pomanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pomanager/user/images/edit.png
+HTTP_REFERER=http://hrdotnetsolutions.net/pomanager/user/profile
+---
+2014/12/01 16:58:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/images/edit.png".' in /home/hrdotnet/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/hrdotnet/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('user/images/edi...')
+#1 /home/hrdotnet/public_html/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/hrdotnet/public_html/pomanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pomanager/user/images/edit.png
+HTTP_REFERER=http://hrdotnetsolutions.net/pomanager/user/profile
+---
+2014/12/01 16:58:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/images/avatar.png".' in /home/hrdotnet/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/hrdotnet/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('user/images/ava...')
+#1 /home/hrdotnet/public_html/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/hrdotnet/public_html/pomanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pomanager/user/images/avatar.png
+HTTP_REFERER=http://hrdotnetsolutions.net/pomanager/user/profile
+---
+2014/12/01 17:10:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "orders/orderdetails".' in /home/hrdotnet/public_html/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/hrdotnet/public_html/framework/web/CWebApplication.php(141): CWebApplication->runController('orders/orderdet...')
+#1 /home/hrdotnet/public_html/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/hrdotnet/public_html/pomanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/pomanager/orders/orderdetails
+---
